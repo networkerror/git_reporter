@@ -1,0 +1,28 @@
+{
+  "name": "git_reporter",
+  "version": "0.0.1",
+  "description": "Utilities to parse GIT repos and extract statistics",
+  "main": "get_counts.js",
+  "dependencies": {
+    "git-wrapper": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:networkerror/git_reporter.git"
+  },
+  "keywords": [
+    "git",
+    "node",
+    "npm"
+  ],
+  "author": "networkerror@gmail.com",
+  "license": "CC",
+  "bugs": {
+    "url": "https://github.com/networkerror/git_reporter/issues"
+  },
+  "homepage": "https://github.com/networkerror/git_reporter"
+}
