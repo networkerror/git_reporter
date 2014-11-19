@@ -1,4 +1,4 @@
-var RepoReport = require('./repo_report');
+var RepoReport = require('../lib/repo_report');
 
 //var report = new RepoReport('/home/vagrant/dotfiles');
 var report = new RepoReport('c:/Users/Tom/Code/dotfiles');
